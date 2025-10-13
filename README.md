@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Kirit Jain!
 
-<!--
-**Kirit-Jain/Kirit-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/your-linkedin-url/">
+  <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+I'm a passionate Game Developer from India, with a strong foundation in Unity and C#. I love building immersive game mechanics and bringing characters to life through code. I am actively seeking internship and job opportunities to contribute to an exciting project and grow my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+
+- **Game Engine:** Unity
+- **Programming:** C#, c++, python, javascript
+- **Tools:** Git, GitHub, Visual Studio, Blender
+- **Interests:** Gameplay Mechanics, Character Controllers, Game Physics, UI/UX
+
+---
+
+### My Best Projects
+
+Here are a few projects I'm proud of.
+
+### Project 1: Rocket Booster
+You are a nimble rocket trapped within a massive, shifting, three-dimensional labyrinth in space. The goal of each level is simple: find the safe pad. The challenge lies in the maze's architecture and the deadly, synchronized obstacles that block your path. It's a game of precision, timing, and pathfinding.
+
+**Key Features:**
+- *Precision Platforming:* The controls must be tight and responsive. This includes moves like thrust and rotate.
+- *The Maze Itself:* The maze is more than just walls; it's a dynamic puzzle.
+- *Obstacles (The Dodge Element):* The obstacles should feel like part of a rhythmic, mechanical system.
+- **[[Link to the Project Repository on GitHub]](https://github.com/Kirit-Jain/Rocket-Booster-I.git)**
+
+### Project 2: Royal-Run
+A fast-paced infinite runner that challenges players to survive a never-ending course by dodging procedurally generated, physics-based obstacles.
+
+**Key Features:**
+- *Endless Procedural Generation:* The game creates a unique, endless level every time you play, ensuring high replayability.
+- *Dynamic Physics Engine:* Utilizes Unity's Rigidbody and Physics Materials to create dynamic and unpredictable obstacles that are physically thrown at the player.
+- *Score & Collection System:* Features a classic coin collection system to track the player's score and reward skillful play.
+- *Risk/Reward Speed Boost:* Collect special "apple" power-ups for a burst of speed, adding a layer of risk and reward to the gameplay.
+- **[[Link to the Project Repository on GitHub]](https://github.com/Kirit-Jain/GameProject-royal-Run.git)**
+
+### Project3: Invaders
+An action-packed on-rails shooter where players navigate a cinematic, predetermined path, blasting enemy ships while dodging intense waves of fire.
+
+**Key Features:**
+- *Classic On-Rails Action:* Delivers a classic arcade experience by guiding the player along a fixed path, allowing them to focus purely on aiming, shooting, and dodging.
+- *Custom Boss Encounters:* As my own custom feature, I implemented dynamic boss battles where the forward camera movement pauses, locking the player in an arena to engage in a challenging, multi-stage fight.
+- *Enemy Squadrons & Scoring:* Battle diverse squadrons of enemy ships and aim for a high score by chaining together attacks and avoiding damage.
+- **[[Link to the Project Repository on GitHub]](https://github.com/Kirit-Jain/GameProject-Invaders.git)**
+
+---
+
+### 📫 How to Reach Me:
+
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [Your Email Address]
