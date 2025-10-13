@@ -68,5 +68,4 @@ An action-packed on-rails shooter where players navigate a cinematic, predetermi
 
 ### 📫 How to Reach Me:
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+- **Email:** [kirit.ajain@gmail.com]
