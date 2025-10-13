@@ -1,7 +1,7 @@
 # Hi there, I'm Kirit Jain!
 
-<a href="https://www.linkedin.com/in/your-linkedin-url/">
-  <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kirit-jain-019a60288/">
+  <img align="left" alt="Kirit Jain Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <br />
@@ -22,6 +22,19 @@ I'm a passionate Game Developer from India, with a strong foundation in Unity an
 ### My Best Projects
 
 Here are a few projects I'm proud of.
+
+###  Project Umbra-Core - (Actively in Development)
+
+A fast-paced, first-person spellcaster where arcane magic clashes with cold steel. As a powerful mage, players wield elemental spells to dismantle legions of robotic enemies in this personal project I am building from scratch.
+
+This is my passion project, designed to showcase a professional, scalable, and robust game architecture in Unity. I am focusing on creating a flexible spell system and challenging combat encounters.
+
+**Key Features Implemented:**
+- *Hybrid Aiming System:* Combines the precision of raycasting for hit detection with the visual satisfaction of tangible, moving projectiles.
+- *Scalable Spell Architecture:* Uses a ScriptableObject-based system, allowing new spells (like the current Fireball and Ground Slash) to be added with unique behaviors and data without changing core combat code.
+- *Dynamic Enemy AI:* Enemies that can patrol, chase, and engage the player in combat.
+- **[[Link to the Project Repository on GitHub]](https://github.com/Kirit-Jain/FirstPersonShooter.git)**
+
 
 ### Project 1: Rocket Booster
 You are a nimble rocket trapped within a massive, shifting, three-dimensional labyrinth in space. The goal of each level is simple: find the safe pad. The challenge lies in the maze's architecture and the deadly, synchronized obstacles that block your path. It's a game of precision, timing, and pathfinding.
